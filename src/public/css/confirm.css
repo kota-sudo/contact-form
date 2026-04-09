@@ -1,0 +1,49 @@
+body {
+    background: #f1ece7;
+    color: #8b7969;
+}
+
+.confirm__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.confirm__heading {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.confirm__heading h2 {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.confirm-table {
+    margin: 0 auto;
+    width: 70%;
+}
+
+.confirm-table__inner {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.confirm-table__row {
+    border: 1px solid #ddd;
+}
+
+.confirm-table__header {
+    padding: 20px;
+    width: 30%;
+    border: 1px solid #ddd;
+    background: #8b7969;
+    color: #fff;
+    text-align: left;
+}
+
+.confirm-table__text {
+    padding: 20px;
+    border: 1px solid #ddd;
+    background: #fff;
+}

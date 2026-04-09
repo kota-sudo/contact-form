@@ -1,0 +1,25 @@
+body {
+    background: #f1ece7;
+    color: #8b7969;
+}
+
+.thanks__content {
+    margin: 0 auto;
+    padding: 100px 15px;
+    max-width: 1230px;
+    text-align: center;
+}
+
+.thanks__content h2 {
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.thanks__content a {
+    display: inline-block;
+    padding: 10px 30px;
+    background: #8b7969;
+    color: #fff;
+    text-decoration: none;
+}
